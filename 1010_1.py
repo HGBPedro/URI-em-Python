@@ -1,5 +1,6 @@
 #Exercício 1010 do URI. Receber dois produtos diferentes, seus códigos, quantidades e preços unitários.
 #Calcular e exibir o total a pagar
+#Usando listas para a resolução do problema para testar otimização
 
 linha1 = input().split(" ")
 linha2 = input().split(" ")
